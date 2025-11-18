@@ -1,0 +1,14 @@
+docs/
+   index.md
+   teoria/
+       manifiesto.md
+   cientifica/
+       validaciones.md
+   api/
+       engine.md
+   cli/
+       guide.md
+   licenses/
+       legal.md
+   stylesheets/
+       extra.css
