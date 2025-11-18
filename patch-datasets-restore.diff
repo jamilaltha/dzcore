@@ -1,0 +1,27 @@
+diff --git a/datasets/.gitkeep b/datasets/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+
+diff --git a/datasets/fasta/.gitkeep b/datasets/fasta/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+
+diff --git a/datasets/sparc/.gitkeep b/datasets/sparc/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+
+diff --git a/datasets/sdss/.gitkeep b/datasets/sdss/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+
+diff --git a/datasets/fits/.gitkeep b/datasets/fits/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+
+diff --git a/datasets/genomes/.gitkeep b/datasets/genomes/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+
+diff --git a/datasets/examples/.gitkeep b/datasets/examples/.gitkeep
+new file mode 100644
+index 0000000..e69de29
