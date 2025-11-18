@@ -1,0 +1,8 @@
+dzcore/
+   datasets/
+      fasta/
+      sparc/
+      sdss/
+      fits/
+      genomes/
+      examples/
