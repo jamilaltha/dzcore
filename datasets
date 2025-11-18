@@ -1,8 +1,7 @@
-dzcore/
-   datasets/
-      fasta/
-      sparc/
-      sdss/
-      fits/
-      genomes/
-      examples/
+datasets/.gitkeep
+datasets/fasta/.gitkeep
+datasets/sparc/.gitkeep
+datasets/sdss/.gitkeep
+datasets/fits/.gitkeep
+datasets/genomes/.gitkeep
+datasets/examples/.gitkeep
