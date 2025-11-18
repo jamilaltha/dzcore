@@ -1,0 +1,128 @@
+NOTICE-NODAL (VERSIÓN ESPAÑOL)
+
+D10Z Universal Nodal Verification Notice
+Versión 2025 – Framework TTA-D10Z
+
+Este proyecto utiliza la Licencia Nodal D10Z (MIT+V).
+El presente aviso acompaña al archivo LICENSE y define la política de coherencia científica para proyectos que usen el motor nodal D10Z en investigación, docencia o publicaciones.
+
+1. Reconocimiento y citación obligatoria
+
+Si utiliza el software D10Z —total o parcialmente— para generar resultados científicos (artículos, preprints, presentaciones, informes técnicos o modelos predictivos), deberá citar:
+
+“D10Z Universal Scientific Verification Framework (2025)” — Jamil Al Thani.
+
+2. Transparencia nodal
+
+Todo resultado que utilice parámetros nodales derivados del software (por ejemplo: constantes Zₙ, matrices de coherencia, valores fractales o factores de energía nodal) debe publicarse junto con:
+
+versión exacta del software
+
+modificaciones realizadas, si las hubiera
+
+repositorio público con parámetros y scripts reproducibles
+
+3. Coherencia y ética científica
+
+La manipulación, omisión o alteración deliberada de parámetros nodales sin declararlos invalida automáticamente la licencia para ese trabajo científico particular, sin afectar los demás derechos otorgados por la licencia MIT+V.
+
+4. Propósito del aviso
+
+Este NOTICE-NODAL garantiza:
+
+coherencia científica
+
+reproducibilidad
+
+trazabilidad
+
+preservación del modelo nodal TTA-D10Z
+
+📌 NOTICE-NODAL (ENGLISH VERSION)
+
+D10Z Universal Nodal Verification Notice
+Version 2025 – TTA-D10Z Framework
+
+This project is distributed under the D10Z Nodal License (MIT+V).
+This notice accompanies the LICENSE file and defines scientific-verification rules for research using the D10Z nodal engine.
+
+1. Mandatory citation
+
+If this software is used to generate scientific results (papers, preprints, presentations, technical reports or predictive models), users must cite:
+
+“D10Z Universal Scientific Verification Framework (2025)” — Jamil Al Thani.
+
+2. Nodal transparency
+
+Any published work using nodal-derived parameters (e.g., Zₙ constants, coherence matrices, nodal energy factors, fractal vectors) must include:
+
+the exact version of the software
+
+any modifications performed
+
+a public repository containing parameters and reproducible scripts
+
+3. Scientific integrity
+
+Omission, falsification, or modification of nodal parameters without declaration automatically invalidates the license for that specific scientific work, without affecting other MIT+V rights.
+
+4. Purpose of this notice
+
+The NOTICE-NODAL ensures:
+
+scientific consistency
+
+reproducibility
+
+traceability
+
+preservation of the TTA-D10Z nodal model
+
+📌 NOTICE-NODAL (中文版本 – 简体中文)
+
+D10Z 通用节点验证声明
+2025版 — TTA-D10Z 框架
+
+本项目采用 D10Z 节点许可证 (MIT+V)。
+本声明与 LICENSE 文件一起使用，用于规范在科研活动中使用 D10Z 节点引擎时的验证要求。
+
+1. 必须引用
+
+若本软件用于科研结果（论文、预印本、技术报告、模型等），必须引用：
+
+“D10Z Universal Scientific Verification Framework (2025)” — Jamil Al Thani.
+
+2. 节点透明度
+
+凡使用节点参数的科研成果（如 Zₙ 常数、节点能量、相干矩阵、分形向量等），必须公开：
+
+软件的准确版本
+
+所有修改
+
+包含参数与可复现脚本的公共仓库
+
+3. 科研诚信
+
+若在发表的研究中隐瞒或篡改节点参数，则该成果的使用许可自动失效，但不影响 MIT+V 许可证下的其他权利。
+
+4. 本声明的目的
+
+NOTICE-NODAL 保障：
+
+科学一致性
+
+可重复性
+
+可追踪性
+
+TTA-D10Z 节点模型的完整性
+dzcore/
+├── d10z/
+│   └── (módulos)...
+├── NOTICE-NODAL/ ⬅️ ¡ESTA ES LA CARPETA!
+│   ├── NOTICE-NODAL-ES.txt
+│   ├── NOTICE-NODAL-EN.txt
+│   └── NOTICE-NODAL-ZH.txt
+├── pyproject.toml
+└── LICENSE
